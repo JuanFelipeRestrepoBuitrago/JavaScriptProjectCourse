@@ -1,0 +1,1 @@
+console.log(typeof "Proofs.js loaded")
