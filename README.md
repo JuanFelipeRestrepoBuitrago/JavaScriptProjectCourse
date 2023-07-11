@@ -8,4 +8,4 @@ This repository contains all the work that I have made for the JavaScript course
 
 The project for this course consists of merging the HTML files of the Frontend Developer Course Project into one using JavaScript. The repo's JavaScriptCourse branch contains the merged file.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanFelipeRestrepoBuitrago&repo=FrontendDeveloperProject)](https://github.com/JuanFelipeRestrepoBuitrago/FrontendDeveloperProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanFelipeRestrepoBuitrago&repo=FrontendDeveloperProject)](https://github.com/JuanFelipeRestrepoBuitrago/FrontendDeveloperProject/tree/JavaScriptCourse)
