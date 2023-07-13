@@ -1,4 +1,7 @@
 # JavaScript Course
+
+[![Static Badge](https://img.shields.io/badge/On-green?label=Website)](https://juanfeliperestrepobuitrago.github.io/FrontendDeveloperProject/)
+
 This repository contains all the work that I have made for the JavaScript course at Platzi. It contains both teorical and practical directory, where files are stored depending on the course.
 
 - TeoryCourse, contains files with exercises for the teorical course.
